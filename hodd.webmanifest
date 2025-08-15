@@ -20,6 +20,12 @@
       "type": "image/png",
       "sizes": "1276x709",
       "form_factor": "wide"
+    },
+    {
+      "src": "img/hodd-mobile.png",
+      "type": "image/png",
+      "sizes": "1080x2400",
+      "form_factor": "narrow"
     }
   ],
   "background_color": "#ffffff",
